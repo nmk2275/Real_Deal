@@ -69,7 +69,3 @@ Open any supported product page
 🔗 GitHub:
 
 github.com/nmk2275/Real_Deal
-
-📜 License
-
-MIT License.
